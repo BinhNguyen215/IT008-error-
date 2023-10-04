@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HK2\\Lập trình trực quan\\Thực hành\\IT008\\LAB1\\LAB1\\LAB1\\LAB1.csproj": {}
+    "C:\\Users\\Haistore.vn\\Source\\Repos\\IT008\\LAB1\\LAB1\\LAB1\\LAB1.csproj": {}
   },
   "projects": {
-    "D:\\HK2\\Lập trình trực quan\\Thực hành\\IT008\\LAB1\\LAB1\\LAB1\\LAB1.csproj": {
+    "C:\\Users\\Haistore.vn\\Source\\Repos\\IT008\\LAB1\\LAB1\\LAB1\\LAB1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HK2\\Lập trình trực quan\\Thực hành\\IT008\\LAB1\\LAB1\\LAB1\\LAB1.csproj",
+        "projectUniqueName": "C:\\Users\\Haistore.vn\\Source\\Repos\\IT008\\LAB1\\LAB1\\LAB1\\LAB1.csproj",
         "projectName": "LAB1",
-        "projectPath": "D:\\HK2\\Lập trình trực quan\\Thực hành\\IT008\\LAB1\\LAB1\\LAB1\\LAB1.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\HK2\\Lập trình trực quan\\Thực hành\\IT008\\LAB1\\LAB1\\LAB1\\obj\\",
+        "projectPath": "C:\\Users\\Haistore.vn\\Source\\Repos\\IT008\\LAB1\\LAB1\\LAB1\\LAB1.csproj",
+        "packagesPath": "C:\\Users\\Haistore.vn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Haistore.vn\\Source\\Repos\\IT008\\LAB1\\LAB1\\LAB1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Haistore.vn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
